@@ -1,0 +1,45 @@
+/* add your CSS here */
+.card {
+  font-family: Georgia, serif;
+  padding: 20px;
+  width: 345px;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px 0;
+  border: solid #F0EFEF;
+  border-radius: 8px;
+}
+
+.info {
+  font-family: Helvetica, Verdana, sans-serif;
+  padding: 10px;
+  width: 300px;
+  box-sizing: border-box;
+  border: solid #F0EFEF;
+  border-radius: 8px;
+  background-color: #E3EEE2;
+}
+
+h3 {
+  text-align: center;
+}
+
+img {
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.fact {
+  font-style: italic;
+}
+
+span {
+  font-family: "Fontin Sans", serif;
+  font-weight: bold;
+  font-size: 109%;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
